@@ -7,6 +7,8 @@ App Screen and the firebase console screen were attached below.
 
 Navigation while screen recording is not happening in my device. Unfortunately couldn't  upload the running app video.
 
+News Api news images are currently not available so a dynamic placeholder was placed.
+
 ![WhatsApp Image 2024-07-19 at 3 55 17 AM](https://github.com/user-attachments/assets/d43c8569-b080-401a-b595-8c596ac09e11)
 ![WhatsApp Image 2024-07-19 at 3 55 22 AM](https://github.com/user-attachments/assets/68121cc6-95b1-447e-9880-e06fd6ec1827)
 ![WhatsApp Image 2024-07-19 at 3 55 22 AM (1)](https://github.com/user-attachments/assets/6f8a9dde-12fa-42b6-9e51-11f93abd81dd)
