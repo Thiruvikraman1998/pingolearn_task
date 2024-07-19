@@ -17,3 +17,6 @@ News Api news images are currently not available so a dynamic placeholder was pl
 https://github.com/user-attachments/assets/1068d2a8-1ae6-4a83-b088-e2c86eca78f1
 
 ![WhatsApp Image 2024-07-19 at 3 55 17 AM](https://github.com/user-attachments/assets/f7b2ba7a-469b-4896-91ae-f6ccb97aab54)
+![Screenshot 2024-07-19 034423](https://github.com/user-attachments/assets/6a347978-94f6-45f4-a999-f08a95919d29)
+![Screenshot 2024-07-19 034404](https://github.com/user-attachments/assets/b28ada56-54a2-4747-8d3e-0bbc4e0cdd1f)
+![Screenshot 2024-07-19 034444](https://github.com/user-attachments/assets/e312a585-e227-4b99-9dc9-4ccb47fa5fbf)
